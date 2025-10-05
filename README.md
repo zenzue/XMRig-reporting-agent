@@ -25,7 +25,7 @@ It allows you to:
 * **Client Side (Miners)**
 
   * `.bat` installer for **XMRig** with auto-start at boot
-  * `miner_report.ps1` – background script that posts miner stats every 60s
+  * `miner_report.ps1` – background script that posts miner stats every 3660s
 
 ---
 
