@@ -80,7 +80,7 @@ It will:
 * Create scheduled tasks:
 
   * **XMRig Miner** → starts mining at boot
-  * **Miner Reporter** → posts status every 60s
+  * **Miner Reporter** → posts status every 3600s
 
 You can check Task Scheduler → "XMRig Miner" and "Miner Reporter".
 
